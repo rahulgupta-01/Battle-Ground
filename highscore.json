@@ -1,0 +1,37 @@
+{"scores":[
+    {
+        "name": "John",
+        "score": 423,
+        "date": "10/1/2021"
+    },
+    
+    {
+        "name": "Bill",
+        "score": 421,
+        "date": "9/1/2021"
+    },
+    
+    {
+        "name": "Brad",
+        "score": 402,
+        "date": "8/1/2021"
+    },
+    
+    {
+        "name": "Ram",
+        "score": 398,
+        "date": "7/1/2021"
+    },
+    
+    {
+        "name": "Ryan",
+        "score": 385,
+        "date": "6/1/2021"
+    },
+    
+    {
+        "name": "Lara",
+        "score": 369,
+        "date": "5/1/2021"
+    }
+]}
